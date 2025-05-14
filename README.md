@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-iu1FbW_E_O
+- Solution URL: https://www.frontendmentor.io/solutions/minimal-qr-code-card-layout-built-with-semantic-html-and-responsive-sSd37LxCI7
 - Live page : 
 
 ## My process
